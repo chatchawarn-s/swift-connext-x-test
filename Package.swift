@@ -4,7 +4,7 @@
 import PackageDescription
 
 let package = Package(
-    name: "mobile_core_test",
+    name: "swift_connext_x_test",
     products: [
         // Products define the executables and libraries a package produces, making them visible to other packages.
         .library(
